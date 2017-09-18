@@ -1,3 +1,0 @@
-[submodule "Dockerfiles"]
-	path = Dockerfiles
-	url = http://93.115.27.37:8080/git/Docker/letsencrypt.git
